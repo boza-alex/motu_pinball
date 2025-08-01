@@ -1,0 +1,13 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# MPF Virtual Environment
+mpfenv/
+.env/
+
+# MPF Generated Files
+*.mc.log
+logs/

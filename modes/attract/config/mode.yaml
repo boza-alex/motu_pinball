@@ -1,23 +1,2 @@
-#config_version=6
-
 mode:
-  start_events: init_done
-  priority: 100
-
-slides:
-  attract_slide:
-    widgets:
-      - type: text
-        text: "HELLO WORLD"
-        font_size: 60
-        color: red
-        anchor_x: center
-        anchor_y: middle
-        x: center
-        y: center
-    target: window  # ← Add this line
-
-show_slide:
-  - time: 0
-    slide: attract_slide
-
+  start_events: machine_reset
