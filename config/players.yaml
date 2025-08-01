@@ -1,0 +1,5 @@
+#config_version=6
+
+player_vars:
+  max_players: 4
+

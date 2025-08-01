@@ -1,0 +1,18 @@
+#config_version=6
+
+mode:
+  start_events: game_started
+  stop_events: ball_ended
+  priority: 200
+
+slides:
+  base_slide:
+    widgets:
+      - type: text
+        text: "Game Started!"
+        style: big
+
+mode_start:
+  base:
+    slide: base_slide
+

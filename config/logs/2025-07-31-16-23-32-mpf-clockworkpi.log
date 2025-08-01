@@ -1,0 +1,5 @@
+2025-07-31 16:23:32,155 : INFO : root : Loading config.
+2025-07-31 16:23:32,163 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-07-31 16:23:32,164 : INFO : ConfigProcessor : Loading config from file /home/alex/.pyenv/versions/3.11.2/envs/mpf-env/lib/python3.11/site-packages/mpf/mpfconfig.yaml.
+2025-07-31 16:23:32,389 : INFO : ConfigProcessor : Loading config: /home/alex/.pyenv/versions/3.11.2/envs/mpf-env/lib/python3.11/site-packages/mpf/mpfconfig.yaml
+2025-07-31 16:23:32,391 : INFO : ConfigProcessor : Loading config from file /home/alex/motu_pinball/config/config/config.yaml.

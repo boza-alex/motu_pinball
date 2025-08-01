@@ -1,0 +1,14 @@
+2025-07-31 16:23:32,497 : kivy : Kivy: v2.2.1
+2025-07-31 16:23:32,498 : kivy : Kivy: Installed at "/home/alex/.pyenv/versions/3.11.2/envs/mpf-env/lib/python3.11/site-packages/kivy/__init__.py"
+2025-07-31 16:23:32,498 : kivy : Python: v3.11.2 (main, Jul 31 2025, 11:16:13) [GCC 12.2.0]
+2025-07-31 16:23:32,498 : kivy : Python: Interpreter at "/home/alex/.pyenv/versions/3.11.2/envs/mpf-env/bin/python"
+2025-07-31 16:23:32,540 : kivy : Factory: 190 symbols loaded
+2025-07-31 16:23:33,400 : kivy : ImageLoaderFFPy: Using ffpyplayer 4.5.1
+2025-07-31 16:23:33,401 : kivy : Image: Providers: img_tex, img_dds, img_sdl2, img_pil, img_ffpyplayer 
+2025-07-31 16:23:33,925 : kivy : VideoFFPy: Using ffpyplayer 4.5.1
+2025-07-31 16:23:33,925 : kivy : Video: Provider: ffpyplayer(['video_ffmpeg'] ignored)
+2025-07-31 16:23:33,989 : root : Loading MPF-MC controller
+2025-07-31 16:23:33,999 : YamlMultifileConfigLoader : Machine config file #1: config
+2025-07-31 16:23:33,999 : ConfigProcessor : Loading config from file /home/alex/.pyenv/versions/3.11.2/envs/mpf-env/lib/python3.11/site-packages/mpfmc/mcconfig.yaml.
+2025-07-31 16:23:34,114 : ConfigProcessor : Loading config: /home/alex/.pyenv/versions/3.11.2/envs/mpf-env/lib/python3.11/site-packages/mpfmc/mcconfig.yaml
+2025-07-31 16:23:34,115 : ConfigProcessor : Loading config from file /home/alex/motu_pinball/config/config/config.

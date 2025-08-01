@@ -1,0 +1,6 @@
+#config_version=6
+
+window:
+  width: 800
+  height: 480
+

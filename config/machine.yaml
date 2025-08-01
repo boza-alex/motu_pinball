@@ -1,0 +1,39 @@
+#config_version=6
+
+hardware:
+  platform: virtual
+
+playfields:
+  playfield:
+    tags: default
+    default_source_device: bd_start  # ✅ Point to a real ball_device name
+
+switches:
+  s_start:
+    number: s
+    label: Start Button
+    tags: start
+
+keyboard:
+  s:
+    switch: s_start
+
+coils:
+  c_flipper_main:
+    number: 1
+    label: Flipper Coil
+
+  c_eject:
+    number: 2
+    label: Ball Ejector
+
+ball_devices:
+  bd_start:
+    ball_switches: s_start
+    eject_coil: c_eject
+
+flippers:
+  f_main:
+    main_coil: c_flipper_main
+    activation_switch: s_start
+

@@ -1,0 +1,14 @@
+#config_version=6
+
+slides:
+  attract_slide:
+    widgets:
+      - type: text
+        text: "Is this working?"
+        font_size: 60
+        color: red
+        anchor_x: center
+        anchor_y: middle
+        x: center
+        y: center
+

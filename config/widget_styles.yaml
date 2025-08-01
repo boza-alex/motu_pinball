@@ -1,0 +1,11 @@
+#config_version=6
+
+widget_styles:
+  big:
+    font_size: 50
+    color: white
+    anchor_x: center
+    anchor_y: middle
+    x: center
+    y: center
+

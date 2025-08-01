@@ -1,0 +1,32 @@
+2025-07-31 15:33:08,777 : INFO : root : Loading config.
+2025-07-31 15:33:08,784 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-07-31 15:33:08,785 : INFO : ConfigProcessor : Loading config from cache: /tmp/4763d64bc0fd3391e8de3eaed5dabb01.mpf_cache
+2025-07-31 15:33:08,905 : INFO : ConfigProcessor : Loading config from cache: /tmp/3c03a7df752fd698a04f07fbf9fda746.mpf_cache
+2025-07-31 15:33:08,906 : INFO : ConfigProcessor : Loading config from cache: /tmp/944e9962837f7d6575136bbe01d07007.mpf_cache
+2025-07-31 15:33:08,907 : INFO : Machine : Mission Pinball Framework Core Engine v0.57.3
+2025-07-31 15:33:08,907 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs/2025-07-31-15-33-08-mpf-clockworkpi.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'mc_file_name': None, 'no_sound': False}
+2025-07-31 15:33:08,907 : INFO : Machine : MPF path: /home/alex/.pyenv/versions/3.11.2/envs/mpf-env/lib/python3.11/site-packages/mpf
+2025-07-31 15:33:08,908 : INFO : Machine : Machine path: /home/alex/motu_pinball/media_controller
+2025-07-31 15:33:08,908 : INFO : Machine : Platform: linux
+2025-07-31 15:33:08,908 : INFO : Machine : Python executable location: /home/alex/.pyenv/versions/3.11.2/envs/mpf-env/bin/python
+2025-07-31 15:33:08,908 : INFO : Machine : Python version: 3.11.2 (64-bit)
+2025-07-31 15:33:08,910 : INFO : Machine : Initializing MPF...
+2025-07-31 15:33:09,004 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2025-07-31 15:33:09,097 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2025-07-31 15:33:09,097 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.57.3', 'prev_value': None, 'change': True}
+2025-07-31 15:33:09,097 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.57.3, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2025-07-31 15:33:09,097 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.11.2', 'prev_value': None, 'change': True}
+2025-07-31 15:33:09,100 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Linux-6.12.40-v8+-aarch64-with-glibc2.36', 'prev_value': None, 'change': True}
+2025-07-31 15:33:09,101 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Linux', 'prev_value': None, 'change': True}
+2025-07-31 15:33:09,101 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '6.12.40-v8+', 'prev_value': None, 'change': True}
+2025-07-31 15:33:09,101 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '#2 SMP PREEMPT Sun Jul 27 22:29:41 EDT 2025', 'prev_value': None, 'change': True}
+2025-07-31 15:33:09,101 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'aarch64', 'prev_value': None, 'change': True}
+2025-07-31 15:33:09,101 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2025-07-31 15:33:09,115 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2025-07-31 15:33:09,117 : INFO : EventManager : Event: ======'bcp_connection_attempt'====== Args={'name': 'local_display', 'host': 'localhost', 'port': 5050}
+2025-07-31 15:33:09,120 : INFO : BCPClientSocket : Connecting BCP to 'local_display' at localhost:5050...
+2025-07-31 15:50:02,446 : INFO : Machine : Starting the main run loop with active modes: []
+2025-07-31 15:50:02,446 : WARNING : Machine : Attract mode is not active, game will not be playable. Please check your attract mode configuration.
+2025-07-31 15:50:02,447 : INFO : Machine : Shutting down...
+2025-07-31 15:50:02,447 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2025-07-31 15:50:03,449 : INFO : root : MPF run loop ended.
